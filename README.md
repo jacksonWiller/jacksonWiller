@@ -1,6 +1,6 @@
 ## Olá, eu sou o Jackson Duarte 👋
 
-- 👨‍🎓 **Cursando:** Tecnologia em análise e desenvolvimento de sistemas;
+- 👨‍🎓 **Cursando:** Análise e desenvolvimento de sistemas;
 - 🌱 **Aprendendo:** Dotnet, C#, Angular;
 
 <div>
