@@ -12,7 +12,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jacksonduarte">
+<a href="https://www.linkedin.com/in/jackson-duarte-6b5748140/">
   <img align="left" alt="Jackson's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
 </a>
 
