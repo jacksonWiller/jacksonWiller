@@ -6,7 +6,6 @@ Olá, eu sou o Jackson Willer Macedo Duarte 👋
 <br/>
 
 <a href="https://www.linkedin.com/in/jackson-duarte-6b5748140/"> <img align="left" alt="Jackson's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" /> </a>
-<a href="tel:+5511999999999"> <img align="left" alt="Phone" width="26px" src="https://img.icons8.com/color/48/000000/phone.png" /> </a>
 
 <br /> <br />
 
@@ -35,7 +34,11 @@ Linguagens e Ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<div align='center'> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonduarte&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonduarte&layout=compact&langs_count=7&theme=blue-green"/> </div>
+<div>
+  <a href="https://github.com/jacksonWiller">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonWiller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonWiller&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 Total de Visitas no perfil :detective: <br>
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/jacksonduarte/count.svg" /> </p>
