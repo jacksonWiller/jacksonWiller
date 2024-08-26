@@ -33,8 +33,7 @@ Linguagens e Ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<br>
+<br/>
 div align='center'> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonWiller&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonWiller&layout=compact&langs_count=7&theme=blue-green"/> </div>
 
 Total de Visitas no perfil :detective: <br>
