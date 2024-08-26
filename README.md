@@ -16,10 +16,6 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
   <img align="left" alt="Jackson's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
 </a>
 
-<a href="https://www.instagram.com/jacksonduarte/">
-  <img align="left" alt="Jackson's Instagram" width="26px"  src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
-</a>
-
 <br />
 <br />
 
