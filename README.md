@@ -26,7 +26,8 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 E aí, tudo bem?<br/>
 Sou Jackson Duarte, estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou aprendendo Dotnet, C# e Angular.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" />
+
 
 **Algumas coisas pessoais:**
 
