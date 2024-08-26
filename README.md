@@ -26,7 +26,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 E aí, tudo bem?<br/>
 Sou Jackson Duarte, estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou aprendendo Dotnet, C# e Angular.
 
-<img align="right" alt="GIF" src="[https://giphy.com/embed/du3J3cXyzhj75IOgvA](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhtczZ5ZWx0YXI2eGtpb3k1MHJzM2hoZHhrNXRhaDF3M3BmNjFmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhtczZ5ZWx0YXI2eGtpb3k1MHJzM2hoZHhrNXRhaDF3M3BmNjFmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 **Algumas coisas pessoais:**
