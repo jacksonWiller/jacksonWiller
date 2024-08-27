@@ -15,7 +15,7 @@ E aí, tudo bem?<br/> Sou Jackson Willer Macedo Duarte, apaixonado desenvolvedor
 
 Algumas coisas pessoais:
 
-👨‍🎓 Cursando: Análise e desenvolvimento de sistemas;
+👨‍🎓 Cursando: Análise e desenvolvimento de sistemas;<br>
 🌱 Aprendendo: Dotnet, C#, Angular;
 Linguagens e Ferramentas:
 
