@@ -1,23 +1,22 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonduarte" alt="jacksonduarte" /> </p> -->
 
-<!-- Obrigado por abrir meu README! Espero que algo aqui seja útil para você. Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se ajuda! 🚀 ==================================================================================== -->
+<!-- Obrigado por abrir meu README! Espero que algo aqui seja útil para você. ==================================================================================== -->
 
-Olá, eu sou o Jackson Willer Macedo Duarte 👋
-<br/>
+HHi everyone, 👋 <br/>
 
 <a href="https://www.linkedin.com/in/jackson-duarte-6b5748140/"> <img align="left" alt="Jackson's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" /> </a>
 
 <br /> <br />
 
-E aí, tudo bem?<br/> Sou Jackson Willer Macedo Duarte, apaixonado desenvolvedor de software com mais de três anos de experiência em C#, .NET Core, ASP.NET e Angular. Minha jornada na tecnologia é impulsionada pelo desejo constante de aprender e enfrentar novos desafios. Também sou formado em Análise e Desenvolvimento de Sistemas.
+Hey, how’s it going?<br/> I am Jackson Willer Macedo Duarte, a passionate software developer with over four years of experience in C#, .NET Core, ASP.NET, and Angular. My journey in technology is driven by a constant desire to learn and tackle new challenges.
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhtczZ5ZWx0YXI2eGtpb3k1MHJzM2hoZHhrNXRhaDF3M3BmNjFmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Algumas coisas pessoais:
+Some personal things:
 
-👨‍🎓 Cursando: Análise e desenvolvimento de sistemas;<br>
-🌱 Aprendendo: Dotnet, C#, Angular;
-Linguagens e Ferramentas:
+👨‍🎓 Graduated in: Analysis and Systems Development;<br> 🌱 Learning: Dotnet, C#, Angular, React, Next.js; 
+<br /> <br />
+Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
