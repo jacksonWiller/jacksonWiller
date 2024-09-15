@@ -2,7 +2,7 @@
 
 <!-- Obrigado por abrir meu README! Espero que algo aqui seja útil para você. ==================================================================================== -->
 
-HHi everyone, 👋 <br/>
+Hi everyone, 👋 <br/>
 
 <a href="https://www.linkedin.com/in/jackson-duarte-6b5748140/"> <img align="left" alt="Jackson's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" /> </a>
 
